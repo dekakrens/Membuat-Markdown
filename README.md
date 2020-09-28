@@ -13,7 +13,7 @@ Untuk membuat tulisan ~~Strikeline~~ dapat menggunakan tanda `~~`
 Cara penulisanya dengan cara menambahkan tanda tersebut dibagian depan dan belakang kata tanpa adanya spasi didekat tanda tersebut. __*Kamu juga dapat mengkombinasikanya*__
 
 ### 3. Menyisipkan Quote
-__Contoh__: \
+__Contoh__:
 >Honesty Is The Best Policy
 >>Gak usah bohong
 
