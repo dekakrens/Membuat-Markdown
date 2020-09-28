@@ -92,5 +92,5 @@ Untuk membuat tabel seperti diatas berikut cara penulisannya:
 | Alice|  23 |
 ```
 ### 11. Membuat Garis Horizontal
-Garis horizontal dapat dibuat dengan mengetikan `---`.
 ---
+Garis horizontal dapat dibuat dengan mengetikan `---`.
