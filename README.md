@@ -42,7 +42,8 @@ Untuk menyisipkan link, kita dapat menulisnya seperti berikut:
 Klik [disini](https://www.github.com/dekakrens) untuk mengakses Github saya.
 ```
 ### 7. Menyisipkan Gambar
-__Contoh__: Perhatikan gambar dibawah ini: ![Gambar](/source/sample.png)
+__Contoh__: Perhatikan gambar dibawah ini:\
+![Gambar](/source/sample.png)
 
 Untuk menyisipkan gambar penulisanya hampir sama seperti menyisipkan link, hanya saja ditambah tanda `!` di depan kurung siku, seperti berikut:
 ```
